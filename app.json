@@ -5,7 +5,12 @@
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
-    ]
-  },
-  "name": "NoiseButton"
+    ],
+    "orientation": "portrait",
+    "icon": "./assets/logo.png",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#596a71"
+    }
+  }
 }
